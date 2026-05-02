@@ -1,3 +1,5 @@
+package moddie;
+
 import sys.FileSystem;
 import sys.io.File.*;
 import haxe.Json;

@@ -1,15 +1,10 @@
 {
   "name": "Modie",
-  "url" : "https://github.com/larsiusprime/polymod",
+  "url" : "https://github.com/CollectorDev09/Modie",
   "license": "MIT",
   "tags": ["mod","game","data","asset"],
-  "description": "An atomic modding framework for Haxe games",
-  "version": "1.8.0",
+  "description": "Modding handler for haxe",
+  "version": "0.1.0",
   "releasenote": "Dependencies, ZIP mods, blacklisting, and other improvements.",
-  "contributors": ["MasterEric", "larsiusprime"],
-  "dependencies": {
-    "thx.semver": "",
-    "jsonpath": "",
-    "jsonpatch": ""
-  }
+  "contributors": ["CollectorDev09"]
 }

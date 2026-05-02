@@ -1,3 +1,5 @@
+package moddie;
+
 class Paths
 {
     public static function mods(key:String) 
