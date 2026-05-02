@@ -1,0 +1,5 @@
+-cp src
+-p mods
+-D analyzer-optimize
+-main Main
+--interp
